@@ -8,3 +8,4 @@ uses volatility3
 | `windows.pstree` | Shows process parent-child relationships |
 | `windows.filescan` | Finds file objects present in memory |
 |`Select-Strings`|To find every url exist in the memory related to attacker ip|
+|`netscan`|To find every network activty exist in the memory|
